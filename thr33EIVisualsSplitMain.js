@@ -190,7 +190,7 @@ loadData(scene, nodes, textSprites, (mesh) => {
 //     <button id="applySettings">Apply</button>
 
 //     <br><br>
-//     <a href="https://github.com/TjhaiME/Test" target="_blank" id="codeLink"
+//     <a href="https://github.com/TjhaiME/EIArticleThreeDViewer" target="_blank" id="codeLink"
 //        style="display: inline-block; padding: 5px 10px; background: #007BFF; color: white; text-decoration: none; border-radius: 5px; text-align: center;">
 //        Link to Code
 //     </a>
